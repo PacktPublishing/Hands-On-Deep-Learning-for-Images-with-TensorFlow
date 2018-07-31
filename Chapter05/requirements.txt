@@ -1,0 +1,7 @@
+connexion==1.5.2
+keras==2.2.0
+tensorflow==1.9.0
+Pillow==5.2.0
+numpy==1.15.0
+h5py==2.8.0
+tornado==5.1
