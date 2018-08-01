@@ -41,7 +41,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required | Hardware specifications  | OS required   |                    
 | -------- | ------------------|--------------------------|-------------- | 
-| 1        | Docker            | nvidia graphics card     | Windows/Ubuntu|
+| 1        | Docker            | NVIDIA graphics card     | Windows/Ubuntu|
 | 2        | Docker            |                          | Windows/Ubuntu|
 | 3        | Docker            |                          | Windows/Ubuntu|
 | 4        | Docker            |                          | Windows/Ubuntu|
