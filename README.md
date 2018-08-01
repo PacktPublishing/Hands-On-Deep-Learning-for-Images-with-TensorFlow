@@ -10,6 +10,7 @@ This is the code repository for [Hands-On Deep Learning for Images with TensorFl
 TensorFlow is Google’s popular offering for machine learning and deep learning, quickly becoming a favorite tool for performing fast, efficient, and accurate deep learning tasks.
 
 This book covers the following exciting features:
+
 * Build machine learning models particularly focused on the MNIST digits
 * Work with Docker and Keras to build an image classifier
 * Understand natural language models to process text and images
