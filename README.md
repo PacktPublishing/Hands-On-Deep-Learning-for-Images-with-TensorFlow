@@ -32,6 +32,7 @@ C:\11519>docker build -t keras .
 ```
 
 **Following is what you need for this book:**
+
 Hands-On Deep Learning for Images with TensorFlow is for you if you are an application developer, data scientist, or machine learning practitioner looking to integrate machine learning into application software and master deep learning by implementing practical projects in TensorFlow. Knowledge of Python programming and basics of deep learning are required to get the best out of this book.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-5).
