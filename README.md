@@ -58,6 +58,7 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Will Ballard**
+
 Will Ballard is the chief technology officer at GLG, responsible for engineering and IT. He was also responsible for the design and operation of large data centers that helped run site services for customers including Gannett, Hearst Magazines, NFL.com, NPR, The Washington Post, and Whole Foods. He has also held leadership roles in software development at NetSolve (now Cisco), NetSpend, and Works.com (now Bank of America).
 
 
