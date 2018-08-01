@@ -39,16 +39,16 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-| Chapter  | Software required | OS required   |                    
-| -------- | ------------------|-------------- | 
-| 1        | Docker            |Windows/Ubuntu |
-| 2        | Docker            | Windows/Ubuntu|
-| 3        | Docker            | Windows/Ubuntu|
-| 4        | Docker            | Windows/Ubuntu|
-| 5        | Docker            | Windows/Ubuntu|
+| Chapter  | Software required | Hardware specifications  | OS required   |                    
+| -------- | ------------------|--------------------------|-------------- | 
+| 1        | Docker            | nvidia graphics card     | Windows/Ubuntu|
+| 2        | Docker            |                          | Windows/Ubuntu|
+| 3        | Docker            |                          | Windows/Ubuntu|
+| 4        | Docker            |                          | Windows/Ubuntu|
+| 5        | Docker            |                          | Windows/Ubuntu|
 
 
-
+ 
 
 
 ### Related products <Paste books from the Other books you may enjoy section>
