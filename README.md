@@ -65,7 +65,7 @@ With the following software and hardware list you can run all code files present
 * Linux Device Drivers Development [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-1x-deep-learning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788293594) [[Amazon]](https://www.amazon.com/dp/1788293592)
 
 ## Get to Know the Author
-*Will Ballard* is the chief technology officer at GLG, responsible for engineering and IT. He was also responsible for the design and operation of large data centers that helped run site services for customers including Gannett, Hearst Magazines, NFL.com, NPR, The Washington Post, and Whole Foods. He has also held leadership roles in software development at NetSolve (now Cisco), NetSpend, and Works.com (now Bank of America).
+**Will Ballard** is the chief technology officer at GLG, responsible for engineering and IT. He was also responsible for the design and operation of large data centers that helped run site services for customers including Gannett, Hearst Magazines, NFL.com, NPR, The Washington Post, and Whole Foods. He has also held leadership roles in software development at NetSolve (now Cisco), NetSpend, and Works.com (now Bank of America).
 
 
 ### Suggestions and Feedback
